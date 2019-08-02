@@ -1,0 +1,11 @@
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.deps.json
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.runtimeconfig.json
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.runtimeconfig.dev.json
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.dll
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.1\DaysOfWeek.pdb
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.csprojAssemblyReference.cache
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.csproj.CoreCompileInputs.cache
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.AssemblyInfoInputs.cache
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.AssemblyInfo.cs
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.dll
+D:\Personal\Lappy-Acer\Training\projects\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.1\DaysOfWeek.pdb
