@@ -4,4 +4,4 @@ Given a fixed size integer array, provide it's Queue implementation.
 
 
 ## Output
-![QueueImplementation](/images/QueueImplementation.png)
+![QueueImplementation](images/QueueImplementation.png)
