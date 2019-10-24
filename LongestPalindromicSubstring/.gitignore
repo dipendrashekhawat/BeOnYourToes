@@ -1,0 +1,5 @@
+# ignore list
+**/.vs
+bin/
+obj/
+*.suo
